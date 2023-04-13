@@ -124,9 +124,11 @@ ul {
     .contact-info p {
         text-align: left;
     }
+ 
+
+    
+
 }
-
-
 
 
 
@@ -203,8 +205,16 @@ input{
 
 
 #submit{
-    margin-left: 30em;
+    margin-left: 1em;
     width: 284px;
+    margin-top: 25px;
+    /* width: 100%; */
+    padding: 0.5em;
+    border: none;
+    background: none;
+    outline: 0;
+    color: #000000;
+    border-bottom: 3px solid #878282;
 }
 
     .fa, .fas {
